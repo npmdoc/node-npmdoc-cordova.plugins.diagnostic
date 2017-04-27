@@ -1,6 +1,6 @@
 # npmdoc-cordova.plugins.diagnostic
 
-#### api documentation for  [cordova.plugins.diagnostic (v3.5.0)](https://github.com/dpa99c/cordova-diagnostic-plugin#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-cordova.plugins.diagnostic.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-cordova.plugins.diagnostic) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-cordova.plugins.diagnostic.svg)](https://travis-ci.org/npmdoc/node-npmdoc-cordova.plugins.diagnostic)
+#### basic api documentation for  [cordova.plugins.diagnostic (v3.5.0)](https://github.com/dpa99c/cordova-diagnostic-plugin#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-cordova.plugins.diagnostic.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-cordova.plugins.diagnostic) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-cordova.plugins.diagnostic.svg)](https://travis-ci.org/npmdoc/node-npmdoc-cordova.plugins.diagnostic)
 
 #### Cordova/Phonegap plugin to check the state of Location/WiFi/Camera/Bluetooth device settings.
 
@@ -76,7 +76,8 @@
     },
     "scripts": {},
     "types": "./cordova.plugins.diagnostic.d.ts",
-    "version": "3.5.0"
+    "version": "3.5.0",
+    "bin": {}
 }
 ```
 
